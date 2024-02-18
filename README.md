@@ -16,4 +16,4 @@
 
 7. Рекомендательные системы в бизнесе. [RecSys_Task_7](RecSys_Task_7.ipynb)
    
-9. Курсовой проект. RecSys_Course_Project/
+9. Курсовой проект. [RecSys_Course_Project](RecSys_Course_Project/)
